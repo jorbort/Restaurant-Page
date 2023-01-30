@@ -1,5 +1,6 @@
 import { loadHome } from "./home";
 import { loadMenu } from "./menu";
+import { loadContact } from "./contact";
 //creates the header element in the dom 
 function createHeader(){
     

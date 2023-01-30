@@ -91,3 +91,20 @@ font-size: 0.9rem;
     height: 200px;
     width: 200px;
 }
+.contact{
+    background-color: rgba(0, 0, 0,0.3);
+    height: 550px;
+    width: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 1.8rem;
+    color: #542e03;
+}
+
+#restImg{
+    height: 300px;
+    width:300px;
+}
