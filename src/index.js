@@ -1,4 +1,9 @@
-    import _ from 'lodash';
+    //import _ from 'lodash';
+    
 
-const element='hello world'
-console.log(element)
+import { loadPage } from "./loadPage";
+    
+    
+    
+loadPage()
+
